@@ -1,5 +1,2 @@
-﻿�����ļ�
-在网页端加了一行
-记事本里面直接加一行
-还是记事本里面加，这次用pull request
-继续pull request
+﻿
+this is the main code
